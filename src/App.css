@@ -1,0 +1,12 @@
+.section-content{
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: var(--site-max-width);
+}
+
+.section-title{
+    text-align: center;
+    font-size: var(--font-size-xl);
+    text-transform: uppercase;
+    padding: 60px 0 50px;
+}
